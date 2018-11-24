@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+# Research Experience
+
+## Alcohol Study
+The NHS Tayside project I collect data for at the Priory is an evaluation of the risk factors for alcohol use disorders. We are investiagting the impact of factors such as early maladaptive schemas, childhood abuse and internalised shame on severity of alcohol abuse and treatment outcomes. 
+My role is to take participants through the various measures during the admission at the hospital and then contact them for a 3 and 6 month follow up. The research is led by Dr Joanne Halcrow and Dr Kevin Power.
+
+## Masters Thesis Project
+I am working with Christoph Scheepers on a study investigating genre-specific language processing. Specifically, we are looking at whether ungrammatical errors are processed and comprehended differently when in poetry compared to prose. This study will be carried out using eye-tracking technology. The project is in collaboration with a group at the Humboldt University of Berlin who are carrying out the same study in German with a comparison of results to follow the completion of both individual studies. This comparison will allow for interesting conclusions to be drawn given the differences in grammatical strictness between the two languages.
+
+## Undergraduate Dissertation Project
+My dissertation project was supervised by Emannuel De Luca and Maria Gardani. I was investigating the relationship between sleep quality and risk-taking given the literature regarding the poor sleeping behaviours found in roles such as junior doctors. In these roles risky decisions are a natural aspect of the job and research highlights the negative impact that poor sleep quality (found in these jobs as a result of long and irregular shift patterns) has on aspects of decision-making. The majority of research focusses on adolescents given the well documented sleep issues in this population. However, sleep issues are experienced at all ages so this study aimed  The study used various measures including the PSQI and ISI and a proxy measure of risk, the Balloon Analogue Risk Task (BART). The experiment was coded in OpenSesame using Python. Results were non-significant as a result of sampling issues. The PSQI allows for scores from 0-21 and the sample in the study only ranged from 1-10. Thus, it could be said that the study investigated sleep quality and risk-taking in a sample of good to average sleepers, however, the wide age range was established. However, the experiment and analysis code is available and the study could be repeated online in order to access a sample sufficient in testing the hypothesis.
