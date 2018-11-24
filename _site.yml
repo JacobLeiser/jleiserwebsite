@@ -6,4 +6,10 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "Home Page"
+  title: "Jacob Leiser Website"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Clinical Experience"
+      href: exp.html
+  
