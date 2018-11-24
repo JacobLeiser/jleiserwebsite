@@ -12,4 +12,6 @@ navbar:
       href: index.html
     - text: "Clinical Experience"
       href: exp.html
+    - text: "Research"
+      href: research.html
   
