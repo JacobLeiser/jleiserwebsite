@@ -7,6 +7,6 @@ I am a postgraduate student in the University of Glasgow's
 
 For my Masters project, I am working with [Christoph Scheepers](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/christophscheepers/), more information about this project can be found in the [Research section](research.html).
 
-Since May 2017, I have been working at [the Priory Hospital Glasgow] (https://www.priorygroup.com/locations/priory-hospital-glasgow), where I hold two roles; Healthcare Assistant and Research Assistant. You can read more about my time at the Priory in the [Experience section](exp.html) of the website.
+Since May 2017, I have been working at [the Priory Hospital Glasgow](https://www.priorygroup.com/locations/priory-hospital-glasgow), where I hold two roles; Healthcare Assistant and Research Assistant. You can read more about my time at the Priory in the [Experience section](exp.html) of the website.
 
 You can find out more about my life outside of Psychology on the [Other Interests](int.html) page.
