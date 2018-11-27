@@ -9,13 +9,18 @@ navbar:
   title: "Jacob Leiser"
   right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Education"
+      icon: fa-graduation-cap
       href: edu.html
     - text: "Clinical Experience"
+      icon: fa-hospital-symbol
       href: exp.html
     - text: "Research"
+      icon: fa-book
       href: research.html
     - text: "Other Interests"
+      icon: fa-user
       href: int.html
   
