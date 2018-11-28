@@ -26,8 +26,9 @@ navbar:
     - text: "Info"
       icon: fa-info-circle
       menu: 
-        - text: "Email: jacob.leiser@gmail.com"
+        - text: "Email: jacob.leiser@gmail.com" 
         - text: "GitHub: JacobLeiser"
+          href: https://github.com/JacobLeiser
         - text: "Download CV"
           href: jacob_leiser_cv.docx
   
