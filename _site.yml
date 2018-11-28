@@ -23,4 +23,11 @@ navbar:
     - text: "Other Interests"
       icon: fa-user
       href: int.html
+    - text: "Info"
+      icon: fa-info-circle
+      menu: 
+        - text: "Email: jacob.leiser@gmail.com"
+        - text: "GitHub: JacobLeiser"
+        - text: "Download CV"
+          href: jacob_leiser_cv.docx
   
