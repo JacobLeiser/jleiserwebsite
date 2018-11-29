@@ -2,6 +2,11 @@
 title: "Jacob Leiser"
 ---
 
+<div style="float: right; height: 432px; width: 288px;">
+  <img src="jgrad.jpg" style="width: 100%;">
+</div>
+
+
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently doing the Research Methods of Psychological Science MSc after graduating from my Psychology BSc degree earlier in 2018, you can read more about this on my [Education page](edu.html).
 
@@ -10,3 +15,6 @@ For my Masters project, I am working with [Dr. Christoph Scheepers](https://www.
 Since May 2017, I have been working at [the Priory Hospital Glasgow](https://www.priorygroup.com/locations/priory-hospital-glasgow), where I hold two roles; Healthcare Assistant and Research Assistant. You can read more about my time at the Priory in the [Experience section](exp.html) of the website.
 
 You can find out more about my life outside of Psychology on the [Other Interests](int.html) page.
+
+
+

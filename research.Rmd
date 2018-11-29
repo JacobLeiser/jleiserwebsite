@@ -5,16 +5,24 @@ title: "Research"
 #### Evaluation of the Potential Risk Factors for the Development of Alcohol Abuse Disorders 
 ##### NHS Tayside and Priory Group, lead by Dr. Joanne Halcrow and Dr. Kevin Power.
 The NHS Tayside project for which I am the sole data collector is lead by Dr. Joanne Halcrow and Dr. Kevin Power. The study is an evaluation of the risk factors for alcohol use disorders. We are investiagting the impact of factors such as early maladaptive schemas, childhood abuse and internalised shame on severity of alcohol abuse and treatment outcomes. 
+
 My role is to take participants through the various measures during the admission at the hospital and then contact them for a 3 and 6 month follow up, passing data onto the lead researcher. I also assist with literature reviews.
+
 
 #### Investigation of Genre-Specific Language Processing and Comprehension
 ##### MSc Thesis Project, supervised by Dr. Christoph Scheepers at the University of Glasgow
-I am working with Dr. Christoph Scheepers on a study investigating genre-specific language processing. Specifically, we are looking at whether ungrammatical errors are processed and comprehended differently when in poetry compared to prose. This study will be carried out using eye-tracking technology. The project is in collaboration with a group at the Humboldt University of Berlin who are carrying out the same study in German with a comparison of results to follow the completion of both individual studies. This comparison will allow for interesting conclusions to be drawn given the differences in grammatical strictness between the two languages.
+I am working with Dr. Christoph Scheepers on a study investigating genre-specific language processing. Specifically, we are looking at whether ungrammatical errors are processed and comprehended differently when in poetry compared to prose. This study will be carried out using eye-tracking technology. 
+
+The project is in collaboration with a group at the Humboldt University of Berlin who are carrying out the same study in German with a comparison of results to follow the completion of both individual studies. This comparison will allow for interesting conclusions to be drawn given the differences in grammatical strictness between the two languages.
+
 
 #### Sleep Quality and Risk-Taking in a General Population
 ##### BSc Dissertation Project, supervised by Dr. Emanuele De Luca and Dr. Maria Gardani at the University of Glasgow
 My dissertation project was supervised by Dr. Emannuel De Luca and Dr. Maria Gardani. I was investigating the relationship between sleep quality and risk-taking but wanted to focus on a wide age range as the majority of current research focuses on adolescents. Research in this area is important given the literature regarding occupations like junior doctors where the role naturally involves high-risk decisions but the shifts are often long and irregular. 
+
 Sleep quality was the measured using the Pittsburgh Sleep Quality Inventory with additional measures taken such as insomnia and anxiety and depression. For a proxy measure of risk, the Balloon Analogue Risk Task (BART) was used. The experiment was made in OpenSesame by adapting existing Python code of a single trial of the task. 
+
 Results were non-significant as a result of sampling issues. The PSQI allows for scores from 0-21 and the scores obtained in the sample only ranged from 1-10. Thus, it could be said that the study investigated sleep quality and risk-taking in a sample of good to average sleepers. However, the wide age range was achieved with ages ranging from 20-69 (mean = 34.8). The experiment and analysis code are avaialable in Python and R, respectively, and the study could be repeated online in order to access a sample sufficient in testing the hypothesis.
+
 An academic poster for this study was designed as part of the undergraduate degree and can be downloaded [here](sleepquality_risk_poster.pptx)
 
