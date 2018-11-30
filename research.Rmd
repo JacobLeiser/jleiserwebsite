@@ -22,7 +22,7 @@ My dissertation project was supervised by Dr. Emannuel De Luca and Dr. Maria Gar
 
 Sleep quality was the measured using the Pittsburgh Sleep Quality Inventory with additional measures taken such as insomnia and anxiety and depression. For a proxy measure of risk, the Balloon Analogue Risk Task (BART) was used. The experiment was made in OpenSesame by adapting existing Python code of a single trial of the task. 
 
-Results were non-significant as a result of sampling issues. The PSQI allows for scores from 0-21 and the scores obtained in the sample only ranged from 1-10. Thus, it could be said that the study investigated sleep quality and risk-taking in a sample of good to average sleepers. However, the wide age range was achieved with ages ranging from 20-69 (mean = 34.8). The experiment and analysis code are avaialable in Python and R, respectively, and the study could be repeated online in order to access a sample sufficient in testing the hypothesis.
+Results were non-significant as a result of sampling issues. The PSQI allows for scores from 0-21 and the scores obtained in the sample only ranged from 1-10. Thus, it could be said that the study investigated sleep quality and risk-taking in a sample of good to average sleepers. However, the wide age range was achieved with ages ranging from 20-69 (mean = 34.8). The experiment and analysis code are available in Python and R, respectively, and the study could be repeated online in order to access a sample sufficient in testing the hypothesis.
 
 An academic poster for this study was designed as part of the undergraduate degree and can be downloaded [here](sleepquality_risk_poster.pptx)
 

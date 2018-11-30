@@ -7,8 +7,8 @@ title: "Jacob Leiser"
 </div>
 
 
-I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently doing the Research Methods of Psychological Science MSc after graduating from my Psychology BSc degree earlier in 2018, you can read more about this on my [Education page](edu.html).
+I am a postgraduate student at the University of Glasgow's
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently enrolled on the Research Methods of Psychological Science MSc after graduating from my Psychology BSc degree earlier in 2018, you can read more about this on my [Education page](edu.html).
 
 For my Masters project, I am working with [Dr. Christoph Scheepers](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/christophscheepers/), more information about this project can be found in the [Research section](research.html).
 
